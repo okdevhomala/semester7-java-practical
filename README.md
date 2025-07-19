@@ -1,6 +1,6 @@
-#Practical Set Question 1:
+# Practical Set Question 1:
 
-Question 1 is named ArraySort
+**Question 1 is named ArraySort**
 
 1. Write a program for to sort numbers using Array.
 2. Write a program to implement interface [implement any 5 properties of interface]
@@ -15,8 +15,8 @@ interface.
 using event handling.
 10. Write a program for JComboBox and JList.
 
-#Practical Set Question 2
-(to-do)
+# Practical Set Question 2
+*(to-do)*
 
 1. Write a program for JTree and JTable.
 2. Write a program to implement the JProgressBar with Event Handling .
