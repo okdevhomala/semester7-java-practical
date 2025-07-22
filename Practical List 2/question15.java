@@ -61,7 +61,7 @@ public class question15 extends Application {
         allLayouts.setPadding(new Insets(10));
 
         Scene scene = new Scene(allLayouts, 400, 600);
-        stage.setTitle("JavaFX Layouts Demo");
+        stage.setTitle("Khusboo Karki");
         stage.setScene(scene);
         stage.show();
     }
